@@ -1,26 +1,15 @@
 /*
-Theme Name: Bushwick
-Theme URI: http://theme.wordpress.com/themes/bushwick/
-Author: James Dinsdale and Automattic
-Author URI: http://molovo.co.uk
-Description: Bushwick is a lightweight, responsive blogging theme, designed to show beautiful content alongside beautiful imagery.
-Version: 1.2.1
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: bushwick
-Domain Path: /languages/
-Tags: photoblogging, white, purple, light, two-columns, responsive-layout, fluid-layout, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, rtl-language-support, sticky-post, translation-ready
-
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
-
-Bushwick is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic, Inc.
-
-Resetting and rebuilding styles have been helped along thanks to the fine work of
-Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
-along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
-and Blueprint http://www.blueprintcss.org/
-*/
+ Theme Name:   Bushwick Child
+ Theme URI:    https://github.com/bennettscience/bushwick-child
+ Description:  Bushwick Child Theme
+ Author:       Brian Bennett
+ Author URI:   http://ohheybrian.com
+ Template:     bushwick
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  bushwick-child
+ * */
 
 
 /* =Reset
